@@ -1,0 +1,2 @@
+# Deep-Fake-Detection-system-using-Machine-Learning-and-Deep-Learning-
+Developed a Deep Fake Detection system using Machine Learning and Deep Learning algorithms to identify manipulated images and videos. Implemented MTCNN, InceptionResnetV1, and Grad-CAM with Python, TensorFlow, PyTorch, and OpenCV to analyze facial features, lip sync, and visual inconsistencies for accurate fake media detection.
